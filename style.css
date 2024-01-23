@@ -1,6 +1,12 @@
 body{
 color: aqua;
+
 }
+*{
+    margin: 0;
+    padding: 0;
+}
+
 label, input{
     font-size: 20px;
 }
