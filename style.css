@@ -1,4 +1,6 @@
 body{
 color: aqua;
-
+}
+label, input{
+    font-size: 20px;
 }
